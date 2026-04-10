@@ -4,7 +4,7 @@ Codebreaker allows players to guess a 5 digit number code within 12 tries, givin
 
 ## Instructions for Build and Use
 
-[Software Demo](Put_Your_Video_Link_Here)
+[Software Demo](https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_dej00h2x)
 
 Steps to build and/or run the software:
 
